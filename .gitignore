@@ -1,2 +1,7 @@
 *.root
 *.pckl
+
+*.log
+*.aux
+*syntech.gz
+*.ipynb_checkpoints
