@@ -1,0 +1,74 @@
+\documentclass{article}
+\usepackage{graphicx}
+\usepackage{tabularx,booktabs}
+\usepackage[english]{babel} 
+\usepackage[margin=1in]{geometry}
+
+\setcounter{secnumdepth}{0}
+\renewcommand{\baselinestretch}{1.15}
+
+\begin{document}
+
+\title{LEE Analyser Tree}
+\author{Wouter Van De Pontseele}
+
+\maketitle
+
+\tableofcontents
+\section*{Introduction}
+Every field will start with \textbf{name}, \textbf{type}, \textbf{Reco or truth info}.
+\clearpage
+
+\section{Definitions of fields}
+\begin{enumerate}
+
+
+\item \textbf{category} \hfill UInt\_t, Truth \\ \\
+Possible values: \\ \\
+\begin{tabularx}{\linewidth}{lX}
+k\_cosmic = 1 & There was no neutrino generated in the event. Or, the selected PNC has only reconstructed tracks/showers that are matched to cosmic origin.\\
+k\_nu\_e = 2  & Generated neutrino inside TPC and $\nu_e$. And, the selected PNC has only  reconstructed tracks/showers that are matched to neutrino origin.\\
+k\_nu\_mu = 3 & Generated neutrino inside TPC and $\nu_\mu$. And, the selected PNC has only  reconstructed tracks/showers that are matched to neutrino origin.\\
+k\_nc = 4 & Generated neutrino interaction is NC (in/out TPC). And, the selected PNC has  only reconstructed tracks/showers that are matched to neutrino origin.\\
+k\_dirt = 5 & Generated neutrino interaction was not NC and outside the TPC active volume. \\
+k\_data = 6 & Data, no truth info available. \\
+k\_mixed = 7 & The selected PNC has reconstructed tracks/showers that are matched to neutrino and cosmic origin. \\
+k\_other = 0 & None of the reconstructed tracks/showers of the selected PNC could be matched to cosmic/neutrino origin. (Can only be used if the category was not k\_dirt already.)
+\end{tabularx}
+\vspace{5mm}
+
+
+\item \textbf{reconstructed\_energy } \hfill $vector<double>$, Reco \\ \\ 
+Sum of the reconstructed energy of the tracks/showers (see definitions) associated to the selected PNC. Three values for the three planes, given in GeV.
+\vspace{5mm}
+
+\item \textbf{n\_tracks}  \hfill UInt\_t, Reco \\ \\ 
+blabla
+\vspace{5mm}
+
+
+\end{enumerate}
+\clearpage
+\setcounter{secnumdepth}{1}
+\appendix
+\section{List of types}
+
+\vspace{3mm}
+\begin{tabular}{ll}
+UInt\_t & A 32 bit unsigned integer. \\
+
+\end{tabular}
+\vspace{3mm}
+
+\section{List of abbreviations}
+\vspace{3mm}
+\begin{tabular}{ll}
+PNC & Pandora neutrino candidate particle flow particle \\
+TPC & Time projection chamber \\
+NC  & neutral current 
+
+\end{tabular}
+\vspace{3mm}
+
+
+\end{document}
