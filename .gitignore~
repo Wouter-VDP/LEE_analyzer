@@ -4,4 +4,4 @@
 *.log
 *.aux
 *syntech.gz
-.ipynb_checkpoints
+.ipynb_checkpoints/
