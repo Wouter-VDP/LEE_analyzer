@@ -1,0 +1,5 @@
+Summary:
+502200 entries were loaded from 253 files, corresponding to 6.15319347324e+22 POT.
+126150.0 Passed " Signal Definition 1e0p " stage of selection.
+101541.0 Passed " Passed analyzer selection " stage of selection.
+
