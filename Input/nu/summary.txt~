@@ -2,3 +2,9 @@ Summary:
 600000 entries were loaded from 300 files, corresponding to 6.04124319686e+20 POT.
 147057.0 Passed " Passed analyzer selection " stage of selection.
 46080.0 Passed " Pure and close " stage of selection.
+
+Summary:
+2304000 entries were loaded from 1152 files, corresponding to 2.32264792015e+21 POT.
+564468.0 Passed " Passed analyzer selection " stage of selection.
+169130.0 Passed " Katrin BDT anti-muon cuts " stage of selection.
+
