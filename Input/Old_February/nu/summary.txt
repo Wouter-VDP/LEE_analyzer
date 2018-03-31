@@ -1,0 +1,39 @@
+Progress: 10 %.
+Concatenating output dataframes
+POT in this chunk: 2.33717509618e+20 POT.
+Progress: 20 %.
+Concatenating output dataframes
+POT in this chunk: 2.33510268516e+20 POT.
+Progress: 30 %.
+Concatenating output dataframes
+POT in this chunk: 2.3340462236e+20 POT.
+Progress: 40 %.
+Concatenating output dataframes
+POT in this chunk: 2.34638808105e+20 POT.
+Progress: 50 %.
+Concatenating output dataframes
+POT in this chunk: 2.34252417822e+20 POT.
+Progress: 60 %.
+Concatenating output dataframes
+POT in this chunk: 2.34097847098e+20 POT.
+Progress: 70 %.
+Concatenating output dataframes
+POT in this chunk: 2.33947289543e+20 POT.
+Progress: 80 %.
+Concatenating output dataframes
+POT in this chunk: 2.33616945236e+20 POT.
+Progress: 90 %.
+Concatenating output dataframes
+POT in this chunk: 2.33446398155e+20 POT.
+Concatenating last frame in case of failure, check for double
+POT in this chunk: 2.180158137e+20 POT.
+
+Summary:
+2304000 entries were loaded from 1152 files, corresponding to 2.32264792015e+21 POT.
+564468.0 Passed " Passed analyzer selection " stage of selection.
+391045.0 Passed " Reco vtx in fidVol " stage of selection.
+
+Loading took  8283.9  seconds.
+Final dataframe has 36585 entries.
+Pickling took  23.0  seconds.
+Done!

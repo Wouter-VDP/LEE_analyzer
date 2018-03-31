@@ -1,0 +1,65 @@
+BTX Unhelpfull:
+
+
+14. feature track_hits_ratio(0.030000)
+15. feature track_multi_daughter(0.021429)
+16. feature track_containment(0.021429)
+17. feature track_dedx_avg(0.020000)
+18. feature track_is_sh_daughter(0.014286)
+19. feature track_dedx_hits(0.000000)
+
+14. feature predict_mu(0.018571)
+15. feature track_dedx_hits(0.018571)
+16. feature track_tr_daughter(0.014286)
+17. feature predict_pi(0.014286)
+18. feature track_containment(0.008571)
+19. feature track_is_tr_daughter(0.000000)
+
+14. feature track_pca(0.025788)
+15. feature track_dedx_hits(0.018625)
+16. feature predict_mu(0.017192)
+17. feature track_tr_daughter(0.014327)
+18. feature track_is_tr_daughter(0.005731)
+19. feature track_containment(0.002865)
+
+
+
+10. feature shower_is_sh_daughter(0.024286)
+11. feature shower_sp_profile(0.024286)
+12. feature shower_sh_daughter(0.018571)
+13. feature shower_is_sh_daughter(0.000000)
+14. feature shower_multi_daughter(0.000000)
+15. feature shower_sh_daughter(0.000000)
+
+10. feature shower_dedx_hits(0.028612)
+11. feature shower_is_sh_daughter(0.012876)
+12. feature shower_sh_daughter(0.004292)
+13. feature shower_is_sh_daughter(0.000000)
+14. feature shower_multi_daughter(0.000000)
+15. feature shower_sh_daughter(0.000000)
+
+10. feature shower_sp_profile(0.034286)
+11. feature shower_is_sh_daughter(0.012857)
+12. feature shower_sh_daughter(0.008571)
+13. feature shower_is_sh_daughter(0.000000)
+14. feature shower_multi_daughter(0.000000)
+15. feature shower_sh_daughter(0.000000)
+
+
+All Features:
+
+Cut value: 0.13 removes 97.8 % of muon tagged tracks and 31.2 % of not-muon tagged tracks.
+Cut value: 0.45 keeps 16.9 % of electron tagged tracks and 0.3 % of not-electron tagged tracks.
+Cut value: 0.49 keeps 23.4 % of closest electron tagged tracks and 0.3 % of not-closest-electron tagged tracks.
+
+Cut value: 0.12 removes 95.3 % of muon tagged shower and 53.4 % of not-muon tagged showers.
+Cut value: 0.8 keeps 32.4 % of electron tagged shower and 0.8 % of not-electron tagged showers.
+Cut value: 0.89 keeps 37.8 % of closest electron tagged shower and 0.7 % of not-closest-electron tagged showers.
+
+Selected features:
+
+Cut value: 0.13 removes 97.8 % of muon tagged tracks and 31.2 % of not-muon tagged tracks.
+Cut value: 0.45 keeps 16.6 % of electron tagged tracks and 0.3 % of not-electron tagged tracks.
+Cut value: 0.49 keeps 23.0 % of closest electron tagged tracks and 0.3 % of not-closest-electron tagged tracks.
+
+

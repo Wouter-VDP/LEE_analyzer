@@ -1,9 +1,8 @@
 import numpy as np
 import pandas as pd
 
-
 # Function returns true if the point is within the volume specified by arr.
-def CheckBorderTPC(x,y,z,arr):
+def CheckBorderTPC(x,y,z,array= [[0,0],[0,0],[0,0]]):
     detectorx   =256.35     # In cm
     detectory   =116.5      # Symmetric around 0     
     detectorz   =1036.8
@@ -24,6 +23,10 @@ def CheckBorderFixed(x,y,z,tolerance=0):
 def sciNot(x):
     x=float(x)
     return "{:.1f}".format(x)
+
+def sciNot2(x):
+    x=float(x)
+    return "{:.2f}".format(x)
 
 def safely_reduce_dtype(ser):  # pandas.Series or numpy.array  
     orig_dtype = "".join([x for x in ser.dtype.name if x.isalpha()]) # float/int
@@ -101,3 +104,9 @@ def reduce_mem_usage(props):
     #print("Memory usage is: ",mem_usg," MB")
     #print("This is ",100*mem_usg/start_mem_usg,"% of the initial size")
     return props, NAlist
+
+
+# error unweighter
+def effErr(teller,noemer):
+    return np.sqrt(teller*(1-teller/noemer))/noemer
+

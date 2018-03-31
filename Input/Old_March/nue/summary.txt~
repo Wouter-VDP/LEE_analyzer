@@ -1,0 +1,10 @@
+Summary:
+583100 entries were loaded from 833 files, corresponding to 7.15197254805e+22 POT.
+146271.0 Passed  Signal Definition 1e0p  stage of selection.
+107333.0 Passed  Passed analyzer selection  stage of selection.
+
+Loading took  5332.7  seconds.
+Final dataframe has 9899 entries.
+Pickling took  5.9  seconds.
+Done!
+

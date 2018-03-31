@@ -1,0 +1,9 @@
+Summary:
+927349 entries were loaded from 1230 files, corresponding to 0.0 POT.
+72577.0 Passed  Passed analyzer selection  stage of selection.
+45640.0 Passed  Reco vtx in fidVol  stage of selection.
+
+Loading took  3536.8  seconds.
+Final dataframe has 45640 entries.
+Pickling took  19.9  seconds.
+Done!

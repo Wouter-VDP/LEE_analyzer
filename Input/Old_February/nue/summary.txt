@@ -1,0 +1,42 @@
+ore than 1 true electron daughter
+More than 1 true electron daughter
+Progress: 10 %.
+Concatenating output dataframes
+POT in this chunk: 6.17730129657e+21 POT.
+More than 1 true electron daughter
+Progress: 20 %.
+Concatenating output dataframes
+POT in this chunk: 6.39080997696e+21 POT.
+Progress: 30 %.
+Concatenating output dataframes
+POT in this chunk: 6.37112442296e+21 POT.
+Progress: 40 %.
+Concatenating output dataframes
+POT in this chunk: 6.16782266499e+21 POT.
+Progress: 50 %.
+Concatenating output dataframes
+POT in this chunk: 6.38452523248e+21 POT.
+Progress: 60 %.
+Concatenating output dataframes
+POT in this chunk: 6.37462294652e+21 POT.
+Progress: 70 %.
+Concatenating output dataframes
+POT in this chunk: 6.36586919256e+21 POT.
+Progress: 80 %.
+Concatenating output dataframes
+POT in this chunk: 6.41007621364e+21 POT.
+Progress: 90 %.
+Concatenating output dataframes
+POT in this chunk: 6.23937004508e+21 POT.
+Concatenating last frame in case of failure, check for double
+POT in this chunk: 4.65041274067e+21 POT.
+
+Summary:
+502200 entries were loaded from 253 files, corresponding to 6.15319347324e+22 POT.
+126150.0 Passed " Signal Definition 1e0p " stage of selection.
+101541.0 Passed " Passed analyzer selection " stage of selection.
+
+Loading took  2136.4  seconds.
+Final dataframe has 7702 entries.
+Pickling took  3.6  seconds.
+Done!

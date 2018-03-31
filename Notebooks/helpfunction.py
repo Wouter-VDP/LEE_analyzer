@@ -1,15 +1,14 @@
 import numpy as np
 import pandas as pd
 
-
 # Function returns true if the point is within the volume specified by arr.
-def CheckBorderTPC(x,y,z,arr):
+def CheckBorderTPC(x,y,z,array= [[0,0],[0,0],[0,0]]):
     detectorx   =256.35     # In cm
     detectory   =116.5      # Symmetric around 0     
     detectorz   =1036.8
-    if (0+arr[0][0]) < x < (detectorx-arr[0][1]):
-            if (-detectory+arr[1][0])< y < (detectory-arr[1][1]):
-                    if (0+arr[2][0]) < z < (detectorz-arr[2][1]):
+    if (0+array[0][0]) < x < (detectorx-array[0][1]):
+            if (-detectory+array[1][0])< y < (detectory-array[1][1]):
+                    if (0+array[2][0]) < z < (detectorz-array[2][1]):
                         return True
     return False
 
@@ -105,3 +104,9 @@ def reduce_mem_usage(props):
     #print("Memory usage is: ",mem_usg," MB")
     #print("This is ",100*mem_usg/start_mem_usg,"% of the initial size")
     return props, NAlist
+
+
+# error unweighter
+def effErr(teller,noemer):
+    return np.sqrt(teller*(1-teller/noemer))/noemer
+
