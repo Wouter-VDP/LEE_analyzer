@@ -1,8 +1,0 @@
-Summary:
-808803 entries were loaded from 1620 files, corresponding to 0.0 POT.
-97411.0 Passed " Passed analyzer selection " stage of selection.
-57230.0 Passed " Reco vtx in fidVol " stage of selection.
-
-
-rescaling = 15111 event
-4.987e19

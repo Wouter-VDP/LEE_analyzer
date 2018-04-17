@@ -1,0 +1,25 @@
+Progress: 10 %.
+Progress: 20 %.
+Progress: 30 %.
+Progress: 40 %.
+Progress: 50 %.
+Progress: 60 %.
+Progress: 70 %.
+Progress: 80 %.
+Progress: 90 %.
+Progress: 100 %.
+Concatenating last frame in case of failure, check for double
+POT in this chunk: 2.39861815e+21 POT.
+
+Summary:
+4950 entries were loaded from 10 files, corresponding to 2.39861815e+21 POT.
+2838 events pass the optical precuts.
+2838 events pass the selection (if topo).
+2050 events pass the track bdt precut.
+1490 events are in the fiducial volume.
+999 events are category electron neutrino.
+
+Loading took  3.6  seconds.
+Pickling took  0.7  seconds.
+Done!
+

@@ -1,0 +1,26 @@
+Progress: 10 %.
+Progress: 20 %.
+Progress: 30 %.
+Progress: 40 %.
+Progress: 50 %.
+Progress: 60 %.
+Progress: 70 %.
+Progress: 80 %.
+Progress: 90 %.
+Tree corrupt? /uboone/data/users/wvdp/v06_26_01_12/April/data_bnb_b11_0s0t/6686940_12.root 
+ index 0 is out of bounds for axis 0 with size 0
+Concatenating last frame in case of failure, check for double
+POT in this chunk: 0.0 POT.
+
+Summary:
+164683 entries were loaded from 281 files, corresponding to 0.0 POT.
+69225  events pass the optical precuts.
+30569 events pass the selection (if topo).
+19320 events pass the track bdt precut.
+11630 events are in the fiducial volume.
+0 events are category electron neutrino.
+
+Loading took  66.6  seconds.
+Pickling took  7.1  seconds.
+Done!
+

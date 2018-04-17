@@ -1,0 +1,39 @@
+Progress: 10 %.
+Concatenating output dataframes
+POT in this chunk: 6.436275690032372e+21 POT.
+Progress: 20 %.
+Concatenating output dataframes
+POT in this chunk: 6.403328386871085e+21 POT.
+Progress: 30 %.
+Concatenating output dataframes
+POT in this chunk: 6.451113882050339e+21 POT.
+Progress: 40 %.
+Concatenating output dataframes
+POT in this chunk: 6.463783298694706e+21 POT.
+Progress: 50 %.
+Concatenating output dataframes
+POT in this chunk: 6.428007463228137e+21 POT.
+Progress: 60 %.
+Concatenating output dataframes
+POT in this chunk: 6.402281778992911e+21 POT.
+Progress: 70 %.
+Concatenating output dataframes
+POT in this chunk: 6.427947486203257e+21 POT.
+Progress: 80 %.
+Concatenating output dataframes
+POT in this chunk: 6.454864615428769e+21 POT.
+Progress: 90 %.
+Concatenating output dataframes
+POT in this chunk: 6.433821913006908e+21 POT.
+Concatenating last frame in case of failure, check for double
+POT in this chunk: 6.3689785135478e+21 POT.
+
+Summary:
+524300 entries were loaded from 749 files, corresponding to 6.427040302805632e+22 POT.
+91800 events are 1eX signal in fidvol.
+84826 events pass the optical precuts.
+84826 events pass the selection (if topo).
+72539 events pass the track bdt precut.
+68193 events are in the fiducial volume.
+55986 events are category electron neutrino.
+
