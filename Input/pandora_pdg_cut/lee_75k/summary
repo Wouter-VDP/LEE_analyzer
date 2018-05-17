@@ -1,0 +1,9 @@
+Summary:
+61600 entries were loaded from 113 files, corresponding to 2.0518849050000003e+21 POT.
+21122 events are 1eX signal in fidvol.
+18230  events pass the optical precuts.
+13268 events pass the selection (if topo).
+8093 events pass the track bdt precut.
+7580 events are in the fiducial volume.
+6668 events are category electron neutrino.
+

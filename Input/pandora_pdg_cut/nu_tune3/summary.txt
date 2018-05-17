@@ -1,0 +1,30 @@
+Progress: 10 %.
+Progress: 20 %.
+Concatenating output dataframes
+POT in this chunk: 1.937766302377904e+20 POT.
+Progress: 30 %.
+Progress: 40 %.
+Concatenating output dataframes
+POT in this chunk: 1.933665328282427e+20 POT.
+Progress: 50 %.
+Progress: 60 %.
+Progress: 70 %.
+Concatenating output dataframes
+POT in this chunk: 1.931154590536819e+20 POT.
+Progress: 80 %.
+Progress: 90 %.
+Concatenating last frame in case of failure, check for double
+POT in this chunk: 1.9048123889936676e+20 POT.
+
+Summary:
+713000 entries were loaded from 713 files, corresponding to 7.707398610190814e+20 POT.
+424822  events pass the optical precuts.
+178445 events pass the selection (if topo).
+30184 events pass the track bdt precut.
+21414 events are in the fiducial volume.
+602 events are category electron neutrino.
+
+Loading took  264.1  seconds.
+Pickling took  4.7  seconds.
+Done!
+
