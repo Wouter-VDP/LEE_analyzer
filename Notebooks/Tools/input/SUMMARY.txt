@@ -1,0 +1,88 @@
+Starting project  bnb_nu_cosmic_0s0t_dev with samplename  nu Number of files:  282
+Done loading, start processing df
+Done, start processing df_candidate
+Done processing
+Total events: 197400
+Total weighted events: 194477.567
+total_pot: 1.99827881093e+20
+
+
+Starting project  bnb_nue_cosmic_0s0t_dev with samplename  nue Number of files:  282
+Done loading, start processing df
+Done, start processing df_candidate
+Done processing
+Total events: 197400
+Total weighted events: 147756.875
+total_pot: 2.41757769545e+22
+
+
+Starting project  bnb_nu_cosmic_tune3_0s0t_dev with samplename  nu_tune3 Number of files:  280
+Done loading, start processing df
+Done, start processing df_candidate
+Done processing
+Total events: 392000
+Total weighted events: 386038.429
+total_pot: 4.24442569577e+20
+
+
+Starting project  bnb_nu_cosmic_overlaid_0s0t_dev with samplename  nu_overlaid Number of files:  283
+Done loading, start processing df
+Done, start processing df_candidate
+Done processing
+Total events: 198260
+Total weighted events: -425760108052480.0
+total_pot: 2.06428890689e+20
+
+
+Starting project  bnb_nu_cosmic_inducedcharge with samplename  nu_induced Number of files:  131
+Done loading, start processing df
+Done, start processing df_candidate
+Done processing
+Total events: 90700
+Total weighted events: 89358.63
+total_pot: 9.16447375224e+19
+
+
+Starting project  bnb_nu_cosmic_lightbug with samplename  nu_lightbug Number of files:  135
+Done loading, start processing df
+Done, start processing df_candidate
+Done processing
+Total events: 90050
+Total weighted events: 88711.145
+total_pot: 9.10927647885e+19
+
+
+Starting project  cosmic_intime_0s0t_dev with samplename  intime Number of files:  279
+Done loading, start processing df
+Done, start processing df_candidate
+Done processing
+Total events: 124643
+Total weighted events: -267668804337664.0
+total_pot: 0.0
+
+
+Starting project  data_bnb_a_0s0t with samplename  bnb_a Number of files:  224
+Done loading, start processing df
+Done, start processing df_candidate
+Done processing
+Total events: 170825
+Total weighted events: -366843894169600.0
+total_pot: 34270451.0572
+
+
+Starting project  data_bnb_b_0s0t with samplename  bnb_b Number of files:  16
+Done loading, start processing df
+Done, start processing df_candidate
+Done processing
+Total events: 778
+Total weighted events: -1670742278144.0
+total_pot: 0.0
+
+
+Starting project  data_bnbext_a_0s0t with samplename  bnbext_a Number of files:  331
+Done loading, start processing df
+Done, start processing df_candidate
+Done processing
+Total events: 185080
+Total weighted events: -397456273571840.0
+total_pot: 71440274.38

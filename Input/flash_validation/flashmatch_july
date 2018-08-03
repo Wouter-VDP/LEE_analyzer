@@ -1,0 +1,118 @@
+281 valid ROOT files collected.
+nue
+POT in this chunk: 2.41126416271e+22 POT.
+
+Summary:
+196700 entries were loaded from 281 files, corresponding to 2.41126416271e+22 POT.
+41728 events are 1eX signal in fidvol.
+30829.0  weighted entries to start with.
+30190.0  events have a flash.
+30189.0  events have a 50PE flash.
+29125.0  events pass the optical precuts.
+26310.0 events have a shower.
+20991.0 events pass the category 12.
+19746.0 events are in the fiducial volume.
+15658.0 events are category electron neutrino.
+
+
+235 valid ROOT files collected.
+beam_on
+POT in this chunk: 33560713.2425 POT.
+
+Summary:
+168276 entries were loaded from 235 files, corresponding to 33560713.2425 POT.
+0  weighted entries to start with.
+126030  events have a flash.
+125212  events have a 50PE flash.
+67105  events pass the optical precuts.
+29719 events have a shower.
+5555 events pass the category 12.
+3577 events are in the fiducial volume.
+0 events are category electron neutrino.
+
+
+
+
+333 valid ROOT files collected.
+beam_off
+POT in this chunk: 72059501.657 POT.
+
+Summary:
+186687 entries were loaded from 333 files, corresponding to 72059501.657 POT.
+0  weighted entries to start with.
+119371  events have a flash.
+118590  events have a 50PE flash.
+61769  events pass the optical precuts.
+25824 events have a shower.
+4629 events pass the category 12.
+2835 events are in the fiducial volume.
+0 events are category electron neutrino.
+
+
+
+279 valid ROOT files collected.
+nu
+POT in this chunk: 1.97844611481e+20 POT.
+
+Summary:
+195300 entries were loaded from 279 files, corresponding to 1.97844611481e+20 POT.
+0  weighted entries to start with.
+151804.0  events have a flash.
+148413.0  events have a 50PE flash.
+105442.0  events pass the optical precuts.
+44066.0 events have a shower.
+7849.0 events pass the category 12.
+5578.0 events are in the fiducial volume.
+153.0 events are category electron neutrino.
+
+
+
+133 valid ROOT files collected.
+nu_lightbug
+POT in this chunk: 8.98751572707e+19 POT.
+
+Summary:
+88950 entries were loaded from 133 files, corresponding to 8.98751572707e+19 POT.
+0  weighted entries to start with.
+69434.0  events have a flash.
+67759.0  events have a 50PE flash.
+48342.0  events pass the optical precuts.
+20245.0 events have a shower.
+3615.0 events pass the category 12.
+2522.0 events are in the fiducial volume.
+66.0 events are category electron neutrino.
+
+
+
+
+284 valid ROOT files collected.
+nu_tune3
+POT in this chunk: 4.30519861889e+20 POT.
+
+Summary:
+397600 entries were loaded from 284 files, corresponding to 4.30519861889e+20 POT.
+0  weighted entries to start with.
+310502.0  events have a flash.
+304033.0  events have a 50PE flash.
+217570.0  events pass the optical precuts.
+91903.0 events have a shower.
+17133.0 events pass the category 12.
+12206.0 events are in the fiducial volume.
+336.0 events are category electron neutrino.
+
+
+
+284 valid ROOT files collected.
+nu_overlaid
+POT in this chunk: 2.07076143638e+20 POT.
+
+Summary:
+198960 entries were loaded from 284 files, corresponding to 2.07076143638e+20 POT.
+0  weighted entries to start with.
+160162  events have a flash.
+156914  events have a 50PE flash.
+106719  events pass the optical precuts.
+47519 events have a shower.
+8994 events pass the category 12.
+6311 events are in the fiducial volume.
+0 events are category electron neutrino.

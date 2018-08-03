@@ -1,0 +1,269 @@
+282 valid ROOT files collected.
+nue
+Output directory did not exist, creating it.
+Start to load entries from 282 files.
+
+Progress: 10 %.
+Progress: 20 %.
+Progress: 30 %.
+Progress: 40 %.
+Progress: 50 %.
+Progress: 60 %.
+Progress: 70 %.
+Progress: 80 %.
+Progress: 90 %.
+Concatenating last frame in case of failure, check for double
+POT in this chunk: 2.41757769545e+22 POT.
+
+Summary:
+197400 entries were loaded from 282 files, corresponding to 2.41757769545e+22 POT.
+41913 events are 1eX signal in fidvol.
+147757.0  weighted entries to start with.
+30305.0  events have a flash.
+30304.0  events have a 50PE flash.
+29239.0  events pass the optical precuts.
+26421.0 events have a shower.
+21096.0 events pass the category 12.
+19849.0 events are in the fiducial volume.
+15723.0 events are category electron neutrino.
+
+Loading took  127.4  seconds.
+Pickling took  21.0  seconds.
+Done!
+
+
+
+240 valid ROOT files collected.
+beam_on
+Output directory did not exist, creating it.
+Start to load entries from 240 files.
+
+Progress: 10 %.
+Progress: 20 %.
+Progress: 30 %.
+Progress: 40 %.
+Progress: 50 %.
+Progress: 60 %.
+Progress: 70 %.
+Progress: 80 %.
+Progress: 90 %.
+Concatenating last frame in case of failure, check for double
+POT in this chunk: 34270451.0572 POT.
+
+Summary:
+171603 entries were loaded from 240 files, corresponding to 34270451.0572 POT.
+171603  weighted entries to start with.
+128580  events have a flash.
+127748  events have a 50PE flash.
+68529  events pass the optical precuts.
+30384 events have a shower.
+5682 events pass the category 12.
+3663 events are in the fiducial volume.
+0 events are category electron neutrino.
+
+Loading took  76.3  seconds.
+Pickling took  4.3  seconds.
+Done!
+
+
+
+331 valid ROOT files collected.
+beam_off
+Output directory existed already
+Start to load entries from 331 files.
+
+Progress: 10 %.
+Progress: 20 %.
+Progress: 30 %.
+Progress: 40 %.
+Progress: 50 %.
+Progress: 60 %.
+Progress: 70 %.
+Progress: 80 %.
+Progress: 90 %.
+Concatenating last frame in case of failure, check for double
+POT in this chunk: 71440274.38 POT.
+
+Summary:
+185080 entries were loaded from 331 files, corresponding to 71440274.38 POT.
+185080  weighted entries to start with.
+126435  events have a flash.
+125620  events have a 50PE flash.
+61210  events pass the optical precuts.
+25581 events have a shower.
+4560 events pass the category 12.
+2800 events are in the fiducial volume.
+0 events are category electron neutrino.
+
+Loading took  75.4  seconds.
+Pickling took  3.7  seconds.
+Done!
+
+
+
+282 valid ROOT files collected.
+nu
+Output directory did not exist, creating it.
+Start to load entries from 282 files.
+
+Progress: 10 %.
+Progress: 20 %.
+Progress: 30 %.
+Progress: 40 %.
+Progress: 50 %.
+Progress: 60 %.
+Progress: 70 %.
+Progress: 80 %.
+Progress: 90 %.
+Concatenating last frame in case of failure, check for double
+POT in this chunk: 1.99827881093e+20 POT.
+
+Summary:
+197400 entries were loaded from 282 files, corresponding to 1.99827881093e+20 POT.
+194478.0  weighted entries to start with.
+153435.0  events have a flash.
+150008.0  events have a 50PE flash.
+106510.0  events pass the optical precuts.
+44550.0 events have a shower.
+7947.0 events pass the category 12.
+5659.0 events are in the fiducial volume.
+153.0 events are category electron neutrino.
+
+Loading took  90.0  seconds.
+Pickling took  6.8  seconds.
+Done!
+
+
+
+135 valid ROOT files collected.
+nu_lightbug
+Output directory did not exist, creating it.
+Start to load entries from 135 files.
+
+Progress: 10 %.
+Progress: 20 %.
+Progress: 30 %.
+Progress: 40 %.
+Progress: 50 %.
+Progress: 60 %.
+Progress: 70 %.
+Progress: 80 %.
+Progress: 90 %.
+Concatenating last frame in case of failure, check for double
+POT in this chunk: 9.10927647885e+19 POT.
+
+Summary:
+90050 entries were loaded from 135 files, corresponding to 9.10927647885e+19 POT.
+88711.0  weighted entries to start with.
+70328.0  events have a flash.
+68629.0  events have a 50PE flash.
+48921.0  events pass the optical precuts.
+20547.0 events have a shower.
+3653.0 events pass the category 12.
+2559.0 events are in the fiducial volume.
+67.0 events are category electron neutrino.
+
+Loading took  45.6  seconds.
+Pickling took  3.1  seconds.
+Done!
+
+
+
+131 valid ROOT files collected.
+nu_induced
+Output directory did not exist, creating it.
+Start to load entries from 131 files.
+
+Progress: 10 %.
+Progress: 20 %.
+Progress: 30 %.
+Progress: 40 %.
+Progress: 50 %.
+Progress: 60 %.
+Progress: 70 %.
+Progress: 80 %.
+Progress: 90 %.
+Concatenating last frame in case of failure, check for double
+POT in this chunk: 9.16447375224e+19 POT.
+
+Summary:
+90700 entries were loaded from 131 files, corresponding to 9.16447375224e+19 POT.
+89359.0  weighted entries to start with.
+70403.0  events have a flash.
+68736.0  events have a 50PE flash.
+48313.0  events pass the optical precuts.
+22591.0 events have a shower.
+4202.0 events pass the category 12.
+2958.0 events are in the fiducial volume.
+64.0 events are category electron neutrino.
+
+Loading took  46.5  seconds.
+Pickling took  3.4  seconds.
+Done!
+
+
+
+280 valid ROOT files collected.
+nu_tune3
+Output directory did not exist, creating it.
+Start to load entries from 280 files.
+
+Progress: 10 %.
+Progress: 20 %.
+Progress: 30 %.
+Progress: 40 %.
+Progress: 50 %.
+Progress: 60 %.
+Progress: 70 %.
+Progress: 80 %.
+Progress: 90 %.
+Progress: 100 %.
+Concatenating last frame in case of failure, check for double
+POT in this chunk: 4.24442569577e+20 POT.
+
+Summary:
+392000 entries were loaded from 280 files, corresponding to 4.24442569577e+20 POT.
+386038.0  weighted entries to start with.
+306131.0  events have a flash.
+299735.0  events have a 50PE flash.
+214491.0  events pass the optical precuts.
+90612.0 events have a shower.
+16895.0 events pass the category 12.
+12027.0 events are in the fiducial volume.
+328.0 events are category electron neutrino.
+
+Loading took  148.6  seconds.
+Pickling took  14.3  seconds.
+Done!
+
+283 valid ROOT files collected.
+nu_overlaid
+Output directory did not exist, creating it.
+Start to load entries from 283 files.
+
+Progress: 10 %.
+Progress: 20 %.
+Progress: 30 %.
+Progress: 40 %.
+Progress: 50 %.
+Progress: 60 %.
+Progress: 70 %.
+Progress: 80 %.
+Progress: 90 %.
+Concatenating last frame in case of failure, check for double
+POT in this chunk: 2.06428890689e+20 POT.
+
+Summary:
+198260 entries were loaded from 283 files, corresponding to 2.06428890689e+20 POT.
+198260  weighted entries to start with.
+159612  events have a flash.
+156366  events have a 50PE flash.
+106325  events pass the optical precuts.
+47329 events have a shower.
+8931 events pass the category 12.
+6267 events are in the fiducial volume.
+0 events are category electron neutrino.
+
+Loading took  90.7  seconds.
+Pickling took  5.8  seconds.
+Done!
